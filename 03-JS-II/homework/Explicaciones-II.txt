@@ -1,0 +1,25 @@
+For: 
+Los bucles for nos permiten repetir ciertos bloques de código, basado a partir de ciertos parametros 
+que son especificados por el usuario, de esta forma por medio de los bucles for se nos permitirá tener 
+control sobre lo que pase en la ejecución de nuestro código.
+
+Una de las mayores ventajas de los bucles for es que evita que el trabajo de programar sea monótono y repetitivo,
+asi mismo nos permite ahorrar tiempo.
+
+&&:
+&& Es un operador lógico que nos ayudará a cumplir dos o mas condiciones en nuestras funciones
+esto se vuelve muy util cuando es necesario u oligatorio cumplir dos o mas parametros, de esta forma 
+nuestras funciones tendrán un filtro para que se ejectuen solo en caso de cumplir con nuestras condiciones y 
+a nos permitirá obtener resultados mas especificios y personalizados.
+
+||:
+Este es otro operador lógico que es utlizado para establecer diferentes alternativas al momento de ejecutar 
+bloque de codigo por ejemplo por medio de este operador podemos crear una función que se ejecute cuando cumpla
+una condición "x", pero tambien podemos ordenar que la funcion se ejecute en caso de tener una condición "y";
+
+De esta forma podremos crear mayor flexibilidad al momento de ejecutar nuestro código.
+
+!: 
+Este es un operador que hace referencia a la negación, es utilizado principalmente para verificar la veracidad 
+de un código usando lógica de Javascript, lo que es muy util ya que nos permitirá poner condiciones en nuestro código por medio de 
+la negación y los valores booleanos.

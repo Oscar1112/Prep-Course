@@ -1,0 +1,49 @@
+Variable:
+Una variable es un elemento de Javascript al cual podremos asignarle un valor determinado
+acorde a nuestras necesidades e intenciones. Una variable es un elemento que almacena dichos datos
+y al mismo tiempo nos brinda la posibilidad de utlizarlo posteriormente. 
+
+Esta ultima caracteristica previamente mencionada nos permitirá facilitar las labores al momento codificar
+puesto que podremos acceder a nuestras variables sin la necesidad de estarlas definiendo constantemente,
+lo que se traduce a que el proceso de codificación no será tan tedioso ni monotono.
+
+String:
+Un string es un elemento que se usa para representar una serie de carácteres de forma literal, por este 
+motivo un string tambien puede considerarse como un bloque de texto, puesto que puede adaparse a cualquier tipo
+de caracteres o sus combinaciones alfanumericas.
+
+Funciones:
+Antes de tomar el concepto de funciones es importante recalcar que las variables mas allá de asignar
+valores y almacenar información por si solas no representan mayores funcionales que les permitan 
+ampliar sus posibilidades.
+
+Dada la circunstancias anteriores las funciones aparecen para generar un conjunto de indicaciones u ordenes
+que les permitan a las variables realizar diversas acciones en concreto. Por ende las variables contienen
+datos que podrán ser aplicados en las funciones para obtener un resultado determinado(logicamente este resultado
+será distinto y dependerá de las instrucciones que nosotros les otorguemos por medio del lenguaje de programación)
+
+Cuando hablamos de las funciones no podemos obviar el termino de argumento.
+Un argumento es utilizado principalmente para determinar sobre que datos será aplicadas las funciones.
+Por ejemplo:
+Podremos establecer una funcion que tanga la utilidad de realizar sumas, ahora bien, bajo un argumento 
+podremos indicar que elementos pueden ser incluidos en dicha suma acorde a nuestro interes.
+
+De igual forma es necesario comentar la funcion return:
+Esta es una función usada para retornar una respuesta ante la ejecución de una función. Existen comandos 
+de programación que por su defecto no retornan una respuesta concreta, si no mas bien se convierten,
+la función return devuelve una respuesta ante el usuario equivalente a la función ejecutada.
+
+
+Declaraciones(if)
+Las declaraciones if son muy importante ya que sirven como un filtro que permite mostrar una respuesta especifica 
+acorde a ciertas condiciones expresadas en los datos.
+
+De esta forma podemos declarar que si una respuesta es en todo positivo se ejecuta una función, en caso 
+contrario podremos camiar la ejecución de otra función con código distinto creando asi una respuesta que se
+adapte a las respuestas creadas por el usuario.
+
+
+Valores booleanos:
+Los valores boolenaos provienen del código binario, por ende los convierte en valores de caracter lógico
+dichos valores se limitan a ciertas opciones en este caso se utilizan los valores "true" o "false" y son
+de mucha utilidad en especial si se desea afirmar  o negar diversas declaraciones en nuestro código.
