@@ -1,0 +1,46 @@
+OBJETO:
+Un objeto se refiere a un repertorio que contiene diversidad de propiedades y caracteristicas que hacen único al objeto.
+Para comprender este punto mejor podemos pensar en un objeto cualquiera por ejemplo una hamburguesa.
+La Hamburguesa en si es el objeto, sin embargo contiene diversas caracteristicas que hacen que este alimento se diferencie de los demás
+a estas caracterisiticas les llamamos propiedades.
+
+De esta forma 
+Nuestro Objeto es Hamburguesa y entre sus propiedades podremos encontrar:
+Una tortilla de carne de 5 cm;
+Un trozo de pan con forma de circulo de 5cm
+Lechuga;
+Tomate.
+
+Es por ello que en el concepto inicial se enunica que un objeto es un repertorio de propiedades, puesto que en su interior estará compuesto de 
+elementos propios que componen al objeto.
+
+PROPIEDAD:
+Cuando hablamos de propiedades nos referimos a un elemento que forma parte de un objeto. Por lo general las propiedades sirven para 
+otorgar caracteristicas a una porción de nuestro objeto, asi mismo podremos crear diversas propiedades para un mismo objeto.
+
+METODO:
+Un método basicamente es un conjunto de instrucciones que nosotros realizamos dentro de un objeto, realmente este es un termino muy similar
+a una función solo que cuando se realiza dentro de un objeto obtiene el nombre de método.
+
+BUCLE FOR IN:
+Cuando hablamos de objetos existen ciertos metdos que varian a los que usualmente usamos. En los arrays se usaba los bucles for para repetir 
+ciertos valores en base a un numero que nosotros ofreciamos como parametro. En el caso de los objetos no existe inidice numerico lo que 
+conlleva a utiliza un bucle for in 
+
+El bucle for in se usa para recorrer los elementos de un objeto y para ello recorre cada una de las propiedades hasta encontrar el parametro 
+especificado
+
+Notación de Puntos vs
+Este es un metodo mas simple por el cual podremos acceder a una propiedad de un objeto puesto que al contrario del metodo notación por corchetes no es necesario acceder a simbolos como las comillas o corchetes para acceder a mi propiedad, de esta forma es mas fácil escribir código.
+
+Una de los puntos importantes a aclarar es que este tipo de notación solo funciona para propiedades definidas puesto caso contrario nos saltará undefined
+
+ Notación de Corchetes.
+ La notación de corchetes es un metodo usado para acceder ante ciertos elementos por medio de corchetes(tal cual como lo establece su nombre), por parte de este metodo podemos resaltar que es mas familiar ya que se asimilia al que se utiliza en los arrays. Como por ejemplo:
+ 
+ Alumno["Edad"]
+
+ Como se puede observar se utilizan los corchetes para hacer referencia a la propiedad a la que queremos acceder. Pero en este caso existe la 
+ desventaja que es muy tediosos estar escribiendo los corchetes junto a las comillas para cada propiedad a la cual queremos acceder, esta es una gran diferencia con respecto al metodo anterior (Notación por puntos)
+
+ Por otro lado es muy importante resaltar que este metodo es ideal para recorrer objetos. 
